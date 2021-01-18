@@ -1,1 +1,2 @@
-Esse é um arquivo de teste
+Esse é um arquivo de teste.
+isso aqui n era pra master.
